@@ -1,0 +1,19 @@
+{
+    "name": "shopeo/se-block",
+    "description": "SHOPEO block plugin",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shopeo\\SeBlock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shopeo",
+            "email": "hello@shopeo.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
