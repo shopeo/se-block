@@ -1,0 +1,17 @@
+{
+  "name": "se-block",
+  "version": "0.0.1",
+  "description": "SHOPEO Blocks",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopeo/se-block.git"
+  },
+  "author": "SHOPEO",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/shopeo/se-block/issues"
+  },
+  "homepage": "https://shopeo.cn"
+}
